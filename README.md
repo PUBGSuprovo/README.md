@@ -1,19 +1,144 @@
-<div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D250%26section%3Dheader%26text%3DSUPROVO%2520MALLICK%26fontSize%3D70%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DAI%2520/%2520ML%2520SYSTEMS%2520ARCHITECT%26descAlignY%3D62%26descSize%3D20" width="100%" /><p align="center"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D00F2FE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DSystem%2BInitializing...%3BAccessing%2BNeural%2BDossier...%3BGenAI%2B%25E2%2580%25A2%2BRAG%2B%25E2%2580%25A2%2BAgentic%2BWorkflows%3BBuilding%2BSystems%2Bwith%2BMovement." /></p><p align="center"><a href="https://www.google.com/search?q=https://github.com/DYNOSuprovo"><img src="https://www.google.com/search?q=https://img.shields.io/github/followers/DYNOSuprovo%3Flabel%3DFollowers%26style%3Dfor-the-badge%26color%3D00F2FE%26logo%3Dgithub" /></a><a href="https://www.google.com/search?q=https://linkedin.com/in/suprovo-mallick"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" /></a><img src="https://www.google.com/search?q=https://img.shields.io/badge/Location-West%2BBengal,%2BIndia-FF4B2B%3Fstyle%3Dfor-the-badge%26logo%3Dgooglemaps%26logoColor%3Dwhite" /></p></div>🧠 NEURAL DOSSIERuser: Suprovo Mallick (alias: DYNO)
-class: AI / ML Developer
-mission: "Build useful, deployable, and visually cool AI systems instead of dead notebook demos."
-specialization: 
-  - GenAI Systems & RAG Pipelines
-  - Agentic Orchestration (LangGraph)
-  - Runtime Verification & Grounding
-  - High-Performance FastAPI Backends
-status: Building in the Cyber Lab ⚡
-🛡️ FEATURED SYSTEMS (MATRIX)<table width="100%"><tr><td width="50%" valign="top"><h4>🌾 Wheat Guardian</h4><p><i>AI Wheat Disease Detection System</i></p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Accuracy-93%2525%252B-green%3Fstyle%3Dflat-square" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack-FastAPI%2520|%20TF%20|%20Docker-blue?style=flat-square" /><p>Multi-class classification with an end-to-end inference pipeline.</p><a href="https://wheat-analysis-app.vercel.app"><b>[ ACCESS NODE ]</b></a></td><td width="50%" valign="top"><h4>🧠 Intent Compiler</h4><p><i>Multi-Agent Architecture Generator</i></p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Mode-Agentic%2BReasoning-purple%3Fstyle%3Dflat-square" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack-LangGraph%2520|%20Groq-orange?style=flat-square" /><p>Transforms product ideas into structured system schemas via agents.</p><a href="https://intent-compiler-bydyno.streamlit.app"><b>[ ACCESS NODE ]</b></a></td></tr><tr><td width="50%" valign="top"><h4>🥗 Aahar</h4><p><i>AI Diet & Wellness Companion</i></p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Type-RAG%2BAssistant-cyan%3Fstyle%3Dflat-square" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack-LangChain%2520|%20Gemini%20|%20Chroma-red?style=flat-square" /><p>Context-aware nutrition guidance with retrieval-backed flows.</p><a href="https://aahar-react.vercel.app"><b>[ ACCESS NODE ]</b></a></td><td width="50%" valign="top"><h4>🌍 Translate-V2</h4><p><i>Multilingual Translation Engine</i></p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gain-38%2525%2BLatency-yellow%3Fstyle%3Dflat-square" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Model-NLLB--200-white%3Fstyle%3Dflat-square" /><p>Optimized inference for low-resource language translation.</p><a href="https://huggingface.co/spaces/Dyno1307/Translate-V2"><b>[ ACCESS NODE ]</b></a></td></tr></table>🛠️ WEAPON STACK<div align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,tensorflow,pytorch,fastapi,docker,mongodb,postgres,react,tailwind,aws,git,linux%26theme%3Ddark" /></div><br />CategoryArsenalGenAI / RAGLangChain, LangGraph, ChromaDB, Pinecone, Gemini API, OpenAI, GroqML / DLScikit-Learn, Pandas, NumPy, HuggingFace Transformers, EfficientNetBackend / OpsFastAPI, Flask, Docker, CI/CD Pipelines, StreamlitProblem Solving280+ DSA Problems Solved • HackerRank 5-Star Python📊 SYSTEM ANALYTICS<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDYNOSuprovo%26show_icons%3Dtrue%26theme%3Dvisionary%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180px" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDYNOSuprovo%26layout%3Dcompact%26theme%3Dvisionary%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180px" /></div><div align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDYNOSuprovo%26theme%3Dvisionary%26hide_border%3Dtrue%26background%3D0D1117" width="100%" /></div>🧬 SYSTEM ARCHITECTURE FLOWgraph LR
-    A[User Intent] --> B{Semantic Retrieval}
-    B --> C[Vector Knowledge]
+NEURAL DOSSIER
+> whoami
+Suprovo Mallick
+
+> class
+AI / ML Developer
+
+> specialization
+GenAI systems • RAG pipelines • agentic workflows • ML deployment
+
+> mission
+Build useful, deployable, and visually cool AI systems instead of dead notebook demos.
+
+> current_focus
+- retrieval engineering
+- grounded generation
+- runtime verification
+- FastAPI + LLM backends
+- scalable AI product workflows
+
+> location
+West Bengal, India
+SIGNAL BOARD
+SignalValue🎓 EducationB.Tech CSE, KIIT (2023–2027)💼 Current DirectionGenAI apps, RAG, agents, production AI⚡ StrengthTurning ideas into deployable systems🧠 Problem Solving280+ DSA problems solved🏅 RecognitionHackerRank 5-Star Python🎯 VibeHacker energy + AI builder mindsetFEATURED SYSTEMS
+🌾 Wheat Guardian
+system: AI wheat disease detection
+stack: [TensorFlow, EfficientNetV2, FastAPI, Docker]
+accuracy: 93%+
+status: deployed
+Multi-class wheat disease classification
+End-to-end inference pipeline
+Deployable API + container workflow
+LIVE NODE: https://wheat-analysis-app.vercel.app
+
+🥗 Aahar
+system: AI diet + wellness companion
+stack: [LangChain, Gemini API, ChromaDB, FastAPI]
+type: RAG assistant
+status: live
+Context-aware nutrition guidance
+Calorie estimation + wellness assistance
+Retrieval-backed conversation flow
+LIVE NODE: https://aahar-react.vercel.app
+
+🧠 Intent Compiler
+system: multi-agent architecture generator
+stack: [LangGraph, Groq LLaMA, Streamlit]
+mode: orchestration
+status: deployed
+Product idea → structured architecture
+Generates schema, requirements, pseudo-code
+Agentic planning workflow
+LIVE NODE: https://intent-compiler-bydyno.streamlit.app
+SOURCE: https://github.com/DYNOSuprovo/intent-compiler
+🌍 Translate-V2
+system: multilingual translation engine
+stack: [Transformers, PyTorch, FastAPI]
+model: NLLB-200
+latency_gain: 38%
+Low-resource language translation
+Optimized inference batching
+Hugging Face deployment
+LIVE NODE: https://huggingface.co/spaces/Dyno1307/Translate-V2
+PROJECT MATRIX
++ Add dedicated public repos for Wheat Guardian, Aahar, and Pluto
++ Then this section can become a full 4-card showcase grid
+AI SYSTEM MAP
+flowchart LR
+    A[User Query] --> B[Semantic Retrieval]
+    B --> C[Vector / Context Search]
     C --> D[Agentic Reasoning]
-    D --> E[Grounding & Verification]
-    E --> F[FastAPI Delivery]
-    style A fill:#00F2FE,stroke:#333,stroke-width:2px
-    style D fill:#7117ea,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#00c853,stroke:#333,stroke-width:2px
-📡 FINAL TRANSMISSION"I don't build dead demos. I build AI systems with movement. Boring is illegal."<div align="center"><a href="https://www.google.com/search?q=https://github.com/DYNOSuprovo"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GITHUB-PROFILE-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" /></a><a href="mailto:suprovo.m@example.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/EMAIL-CONTACT-black%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" /></a></div><br /><div align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/DYNOSuprovo/DYNOSuprovo/output/github-contribution-grid-snake.svg" alt="Snake animation" /></div>
+    D --> E[Grounding + Verification]
+    E --> F[FastAPI / UI Delivery]
+flowchart TD
+    A[Problem Idea] --> B[Design]
+    B --> C[Prototype]
+    C --> D[Model Integration]
+    D --> E[Backend API]
+    E --> F[Deployment]
+    F --> G[Iteration]
+WEAPON STACK
+Languages
+
+
+
+AI / ML
+
+
+
+
+GenAI / RAG
+
+
+
+
+
+Backend / Tools / Deployment
+
+
+
+
+
+POWER LEVELS
+GITHUB ANALYTICS CORE
+METRICS EXPANSION
+CONTRIBUTION MATRIX
+LIVE ANIMATIONS
+CYBER LAB
++ Experimenting with retrieval optimization
++ Building RAG-backed assistants
++ Designing agentic system flows
++ Improving grounding and verification
++ Shipping AI through APIs and frontends
+lab_focus:
+  - semantic retrieval
+  - vector search
+  - LLM orchestration
+  - FastAPI deployment
+  - inference optimization
+  - production-minded AI systems
+DEV PERSONALITY PATCH
+[system_profile]
+alias = DYNO
+mode = cyberpunk_ai_builder
+favorite_stack = Python + FastAPI + GenAI
+energy_source = curiosity + problem solving + cool demos
+preferred_output = systems_that_actually_work
+SIDE CHANNELS
+NETWORK LINKS
+FINAL TRANSMISSION
++ I don't build dead demos.
++ I build AI systems with movement.
++ I build pipelines that deploy.
++ I build products that feel alive.
++ I build cool things because boring is illegal.
+
+
+
+
+
+
+
+MOD THIS TO GET BEST DESIGN 
+LIKE UPGRADE TO MAX BEST DESIGN POSSIBLE FOR MY GITHUB
